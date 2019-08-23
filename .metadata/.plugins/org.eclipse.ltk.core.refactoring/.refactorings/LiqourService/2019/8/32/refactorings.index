@@ -1,0 +1,5 @@
+1565191564631	Rename type 'Continent'
+1565194180200	Rename type 'consumptionDto'
+1565194719217	Encapsulate field 'reader'
+1565254501985	Extract local variable 'continentCode'
+1565254651648	Extract method 'setContinentName'
